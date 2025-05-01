@@ -92,7 +92,8 @@ delay(1000);
 ![Screenshot 2025-05-01 122314](https://github.com/user-attachments/assets/a4182afe-6723-4b11-8cee-140995381989)
 
 ## OUTPUT:
-![Uploading Screenshot 2025-05-01 122349.png…]()
+![Screenshot 2025-05-01 122349](https://github.com/user-attachments/assets/8fe97bff-d7ae-41ce-9b2e-58668b52643c)
+
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
